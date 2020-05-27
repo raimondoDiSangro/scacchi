@@ -76,7 +76,7 @@ _______________
   - il risultato è una lista di comandi (uno per riga)
   
   <center>
-	<img width="400" alt="command_help.png" src="/res/img/report/command_help.png">
+	<img width="400" alt="command_help.png" src="progetto1920-wilkinson-master/res/img/report/command_help.png">
 </center>
 
   > - **esempio comandi**:  
