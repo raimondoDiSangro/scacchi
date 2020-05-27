@@ -76,7 +76,7 @@ _______________
   - il risultato è una lista di comandi (uno per riga)
   
   <center>
-	<img width="400" alt="command_help.png" src="progetto1920-wilkinson-master/res/img/report/command_help.png">
+	<img width="400" alt="command_help.png" src="/progetto1920-wilkinson-master/res/img/report/command_help.png">
 </center>
 
   > - **esempio comandi**:  
@@ -94,7 +94,7 @@ _______________
   - l'applicazione si predispone a ricevere la prima mossa di gioco
   
   <center>
-	<img width="400" alt="command_play.png" src="/res/img/report/command_play.png">
+	<img width="400" alt="command_play.png" src="/progetto1920-wilkinson-master//res/img/report/command_play.png">
 </center>
 
   > - il sistema è in grado di ricevere altri comandi in questo stato, ad esempio  
@@ -111,7 +111,7 @@ _______________
   - l'applicazione lascia il controllo al sistema operativo
   
   <center>
-	<img width="400" alt="command_quit.png" src="/res/img/report/command_quit.png">
+	<img width="400" alt="command_quit.png" src="/progetto1920-wilkinson-master//res/img/report/command_quit.png">
 </center>
 
   > - (il sistema non accetta più altri comandi e termina)
@@ -124,7 +124,7 @@ _______________
   - l'applicazione stampa a video la posizione sulla scacchiera
   
   <center>
-	<img width="400" alt="command_board.png" src="/res/img/report/command_board.png">
+	<img width="400" alt="command_board.png" src="/progetto1920-wilkinson-master//res/img/report/command_board.png">
 </center>
 
   > - ogni pezzo è visualizzato con posizione aggiornata all'ultima mossa inserita  
@@ -138,7 +138,7 @@ _______________
   - l'applicazione mostra la storia delle mosse compiute fino a quel momento
   
   <center>
-	<img width="400" alt="command_moves.png" src="/res/img/report/command_moves.png">
+	<img width="400" alt="command_moves.png" src="/progetto1920-wilkinson-master//res/img/report/command_moves.png">
 </center>
 
   > - le mosse sono visualizzate in notazione algebrica abbreviata in italiano
@@ -151,7 +151,7 @@ _______________
   - l'applicazione mostra tutte le catture della partita in corso fino a qual momento
   
   <center>
-	<img width="400" alt="command_captures.png" src="/res/img/report/command_captures.png">
+	<img width="400" alt="command_captures.png" src="/progetto1920-wilkinson-master//res/img/report/command_captures.png">
 </center>
 
   > - mostrare le catture del Bianco e del Nero in caratteri Unicode
@@ -183,7 +183,7 @@ _______________
 	- l'eventuale cambio di colonna derivante la cattura del pedone deve essere preceduto dalla lettera corrispondente alla colonna di partenza (*es. exf2*)
 
 <center>
-	<img width="300" alt="pawn_move.png" src="/res/img/report/pawn_move.png">
+	<img width="300" alt="pawn_move.png" src="/progetto1920-wilkinson-master//res/img/report/pawn_move.png">
 </center>
 
  > - ***movimento del pedone***
@@ -203,7 +203,7 @@ _______________
   	- la mossa deve essere preceduta da una 'C' 
   
 <center>
-	<img width="300" alt="knight_move.png" src="/res/img/report/knight_move.png">
+	<img width="300" alt="knight_move.png" src="/progetto1920-wilkinson-master//res/img/report/knight_move.png">
 </center>
 
  > - ***movimento del cavallo***
@@ -221,7 +221,7 @@ _______________
   	- la mossa deve essere preceduta da una 'A' 
   
 <center>
-	<img width="300" alt="bishop_move.png" src="/res/img/report/bishop_move.png">
+	<img width="300" alt="bishop_move.png" src="/progetto1920-wilkinson-master//res/img/report/bishop_move.png">
 </center>
 
  > - ***movimento dell'alfiere***
@@ -237,7 +237,7 @@ _______________
   	- la mossa deve essere preceduta da una 'T' 
   
 <center>
-	<img width="300" alt="rook_move.png" src="/res/img/report/rook_move.png">
+	<img width="300" alt="rook_move.png" src="/progetto1920-wilkinson-master//res/img/report/rook_move.png">
 </center>
 
  > - ***movimento della torre***
@@ -253,7 +253,7 @@ _______________
   	- la mossa deve essere preceduta da una 'D' 
   
 <center>
-	<img width="300" alt="quuen_move.png" src="/res/img/report/queen_move.png">
+	<img width="300" alt="quuen_move.png" src="/progetto1920-wilkinson-master//res/img/report/queen_move.png">
 </center>
 
  > - ***movimento della donna***
@@ -272,7 +272,7 @@ _______________
 	- nessun pezzo amico deve permettere di "scoprire" il *Re* con la propria mossa
   
 <center>
-	<img width="300" alt="king_move.png" src="/res/img/report/king_move.png">
+	<img width="300" alt="king_move.png" src="/progetto1920-wilkinson-master//res/img/report/king_move.png">
 </center>
 
  > - ***movimento del re***
@@ -290,11 +290,11 @@ _______________
   	- il *Re*, durante il movimento dell'arrocco, non deve attraversare caselle in cui si troverebbe sotto *scacco* 
   
 <center>
-	<img width="300" alt="castle_short_move.png" src="/res/img/report/castle_short_move.png">
+	<img width="300" alt="castle_short_move.png" src="/progetto1920-wilkinson-master//res/img/report/castle_short_move.png">
 </center>
 
 <center>
-	<img width="300" alt="castle_short_move2.png" src="/res/img/report/castle_short_move2.png">
+	<img width="300" alt="castle_short_move2.png" src="/progetto1920-wilkinson-master//res/img/report/castle_short_move2.png">
 </center>
 
  > - ***definizione di arrocco corto***
@@ -313,11 +313,11 @@ _______________
   	- il *Re*, durante il movimento dell'arrocco, non deve attraversare caselle in cui si troverebbe sotto *scacco* 
   
 <center>
-	<img width="300" alt="castle_long_move.png" src="/res/img/report//castle_long_move.png">
+	<img width="300" alt="castle_long_move.png" src="/progetto1920-wilkinson-master//res/img/report//castle_long_move.png">
 </center>
 
 <center>
-	<img width="300" alt="castle_long_move2.png" src="/res/img/report/castle_long_move2.png">
+	<img width="300" alt="castle_long_move2.png" src="/progetto1920-wilkinson-master//res/img/report/castle_long_move2.png">
 </center>
 
  > - ***definizione di arrocco lungo***
