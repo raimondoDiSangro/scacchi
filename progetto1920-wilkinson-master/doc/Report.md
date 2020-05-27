@@ -382,7 +382,7 @@ Esso sfrutta e orchestra le classi di gioco, a seconda della situazione può: im
 - **View :** Come precisato in precedenza, la nostra applicazione software si distingue dall'MVC "puro" anche per via della mancanza di una vera e propria GUI ([Graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface)), essendo un'applicazione a riga di comando. Ad ogni modo è comunque possibile visualizzare la scacchiera, le mosse e le catture effettuate, tramite immissione di specifici comandi.
 
 <br>
-  <img width="600" src="/res/img/report/MVC.png">
+  <img width="600" src="/progetto1920-wilkinson-master//res/img/report/MVC.png">
 <br>
 
 ### Diagramma dei package
@@ -476,15 +476,15 @@ Abbiamo però vagliato diverse opzioni di *pattern*, da cui abbiamo preso spunto
 
 <br>
 
-<img src="/res/img/report/coverall.png">
+<img src="/progetto1920-wilkinson-master//res/img/report/coverall.png">
 
-<img src="/res/img/report/coverall-List.png">
+<img src="/progetto1920-wilkinson-master//res/img/report/coverall-List.png">
 
-<img src="/res/img/report/jacoco.png">
+<img src="/progetto1920-wilkinson-master//res/img/report/jacoco.png">
 
-<img src="/res/img/report/jacocoExt.png">
+<img src="/progetto1920-wilkinson-master//res/img/report/jacocoExt.png">
 
-<img src="/res/img/report/TestSummary.png">
+<img src="/progetto1920-wilkinson-master//res/img/report/TestSummary.png">
 
 
 ### <a name="Commenti-TEST"></a>Commenti delle decisioni prese
